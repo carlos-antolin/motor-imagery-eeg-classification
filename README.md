@@ -20,12 +20,15 @@ This project demonstrates basic preprocessing and classification techniques for 
 - **Cross-validation**: 5-fold stratified to evaluate model generalization.
 
 ## Requirements
-mne>=1.6.1
-numpy>=1.24.0
-scikit-learn>=1.2.0
-matplotlib>=3.7.0
-torch>=2.0.0
+
+This project requires the following Python packages:
+
+- `mne` >= 1.6.1
+- `numpy` >= 1.24.0
+- `scikit-learn` >= 1.2.0
+- `matplotlib` >= 3.7.0
+- `torch` >= 2.0.0
 
 ## Status
 
-🧪 This project is a work in progress. Current results are suboptimal (42–47% accuracy), but reflect real-world challenges of EEG decoding. Planned improvements include better preprocessing, data augmentation, time-frequency analysis, and more advanced neural architectures.
+🧪 This project is a work in progress. Planned improvements include better preprocessing, data augmentation, time-frequency analysis, and more advanced neural architectures.
