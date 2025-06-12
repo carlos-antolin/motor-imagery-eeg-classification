@@ -20,11 +20,11 @@ This project demonstrates basic preprocessing and classification techniques for 
 - **Cross-validation**: 5-fold stratified to evaluate model generalization.
 
 ## Requirements
--**mne** >= 1.6.1
--**numpy** >= 1.24.0
--**scikit-learn** >= 1.2.0
--**matplotlib** >= 3.7.0
--**torch** >= 2.0.0
+mne>=1.6.1
+numpy>=1.24.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+torch>=2.0.0
 
 ## Status
 
